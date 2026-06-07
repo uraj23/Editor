@@ -5,6 +5,7 @@ function Component() {
     <>
     <div>Component</div>
     <h1>Hello</h1>
+      <h2> Hello World</h2>
     </>
   )
 }
